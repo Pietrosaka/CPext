@@ -4,6 +4,6 @@
 
 /* Exemplo de ajustes globais adicionais */
 body {
-  @apply bg-green-500 text-gray-800;
+  @apply bg-black text-white;
 }
 
