@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import img from '../app/assets/img-404.jpg'
 
 
 const NotFoundPage = () => {
@@ -10,7 +11,7 @@ const NotFoundPage = () => {
 
       {/* Componente Image do Next.js */}
       <Image
-        src="/img-404.jpg"
+        src={img}
         alt="Erro 404"
         width={500}
         height={300}
