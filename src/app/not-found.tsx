@@ -5,7 +5,7 @@ import img from '../app/assets/img-404.jpg'
 
 const NotFoundPage = () => {
   return (
-    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+    <div  className='text-center mt-12'>
       <h1>Página não encontrada</h1>
       <p>A página que você está tentando acessar não existe.</p>
 
