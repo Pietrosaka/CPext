@@ -3,6 +3,8 @@
     <p>Integrantes</p>
     <p>Ian Madeira - RM 555502</p>
     <p>Pietro Saccarrão Cougo - RM 555839</p>
+    <p>Matheus de Lima Martins</p>
+    
     <p>&copy; 2024 Meu Projeto. Todos os direitos reservados.</p>
   </div>
 </footer>
